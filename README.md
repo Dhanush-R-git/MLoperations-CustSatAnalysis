@@ -44,7 +44,13 @@ but first you must install the optional dependencies for the ZenML server:
 
 ```bash
 pip install zenml["server"]
-zenml up
+zenml up 
+or
+zenml init
+```
+To match the server version 
+```bash
+zenml downgrade
 ```
 
 To `run_deployment.py` script, it need to install some integrations using ZenML:
