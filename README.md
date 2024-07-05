@@ -16,7 +16,7 @@ https://github.com/Dhanush-R-git/MLoperations-CustSatAnalysis
 ### Create a conda environment after opening the repository
 
 ```bash
-conda create -n ml.env.0.0.0 python=3.11.7 -y
+conda create -n ml.env.0.0.0 python=3.11.9 -y
 ```
 
 ```bash
