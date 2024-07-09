@@ -1,4 +1,6 @@
 from pipelines.P1_training import training_pipeline
+#from steps.step_02_Data_Processing import clean_data
+
 
 if __name__ == "__main__":
     # Run the pipeline
